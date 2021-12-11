@@ -3,6 +3,9 @@
 1. Install Gitlab.(Install Gitlab Community Edition)
 
 2. Install Docker.Check with docker version command weather docker installed in your system or not. (https://docs.docker.com/engine/install)
+   _I recommend installing docker via get-docker.sh_
+   ![image](https://user-images.githubusercontent.com/57385309/145665915-23cd86e4-9a30-4b1e-8711-9e4e242119d5.png)
+   
 
 3. **_Docker_**:
 
