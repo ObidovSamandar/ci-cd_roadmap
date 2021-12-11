@@ -1,6 +1,6 @@
 # Roadmap for CI/CD
 
-1. Install Gitlab.(Install Gitlab Community Edition)
+1. Sign Up/Sign In at gitlab.com
 
 2. Install Docker.Check with docker version command weather docker installed in your system or not. (https://docs.docker.com/engine/install)
 
